@@ -1,7 +1,8 @@
-id=template
-name=Template Module
-version=v1
-versionCode=1
-author=topjohnwu
-description=A short description
-template=4
+id=extendwifi
+name=Extend WiFi channels
+version=v5
+versionCode=5
+author=Thomasvt
+description=Extend WiFi channels by overriding the values in build.prop file and replacing wifi-service.jar
+support=https://thomasvt.xyz/
+donate=
