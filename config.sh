@@ -1,7 +1,7 @@
 ##########################################################################################
 #
-# Magisk - Set DPI to 420
-# by topjohnwu
+# Magisk - Set WiFi region to EU
+# by topjohnwu & Thomasvt
 # 
 # This is a template zip for developers
 #
