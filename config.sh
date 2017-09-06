@@ -42,7 +42,11 @@ LATESTARTSERVICE=false
 
 print_modname() {
   ui_print "*******************************"
+<<<<<<< HEAD
   ui_print "     Extend your WiFi capability's    "
+=======
+  ui_print "     Magisk Module Template    "
+>>>>>>> 0708e652f49c8007e5c450010f500ef6c1205c74
   ui_print "*******************************"
 }
 
