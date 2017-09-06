@@ -4,8 +4,4 @@
 MODDIR=${0%/*}
 
 # This script will be executed in post-fs-data mode
-<<<<<<< HEAD
 # More info in the main Magisk thread
-=======
-# More info in the main Magisk thread
->>>>>>> 0708e652f49c8007e5c450010f500ef6c1205c74
