@@ -1,13 +1,11 @@
-## Extend your phone's WiFi capability's
-This mod changes your WiFi region to Europe so restrictions are less tight.  
+# Magisk Module Template
 
-## Built for OnePlus 5
-This module is built for OnePlus 5 I don't guarantee it to work on other phones, altough it may work. You never know.
+For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/module_repo.md)
 
-## Tested
-Tested on OnePlus 5 running O2OS 170803 running Android 7.1.1
+### README.md
 
+This `README.md` can be shown in Magisk Manager. Place any information/changelog/notes you like.
 
+**Please update `README.md` if you want to submit your module to the online repo!**
 
-## Special thanks to
-https://forum.xda-developers.com/pixel/themes/mod-wifi-country-code-fix-root-required-t3558044
+You can edit your `README.md` within Github's online editor, it also has an preview button! Check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) for markdown syntaxes, it's super easy!

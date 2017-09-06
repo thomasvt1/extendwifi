@@ -1,8 +1,8 @@
 id=extendwifi
 name=Extend WiFi channels
-version=v6
-versionCode=6
+version=v7
+versionCode=7
 author=Thomasvt
 description=Extend WiFi channels by overriding the values in build.prop file and replacing wifi-service.jar
 support=https://thomasvt.xyz/
-donate=
+template=1400
