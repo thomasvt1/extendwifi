@@ -7,6 +7,10 @@ This module is built for OnePlus 5 I don't guarantee it to work on other phones,
 ## Tested
 Tested on OnePlus 5 running O2OS 170803 running Android 7.1.1
 
+## 4.5.2
+Added support for the leaked build of Oxygen OS.
+Renamed v5 to v6 to fix booting.
+
 
 
 # Special thanks to
