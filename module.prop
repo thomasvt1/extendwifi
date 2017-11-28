@@ -1,6 +1,6 @@
 id=extendwifi
 name=Extend WiFi channels
-version=v9
+version=OreoB-1
 versionCode=9
 author=Thomasvt
 description=Extend WiFi channels by overriding the values in build.prop file and replacing wifi-service.jar
